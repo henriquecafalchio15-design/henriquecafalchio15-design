@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Henrique! 👋
 
-<!--
-**henriquecafalchio15-design/henriquecafalchio15-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 17 anos e sou estudante na **Etec Padre Carlos Leôncio da Silva**. Apaixonado por tecnologia, estou constantemente desenvolvendo meus conhecimentos e buscando novos aprendizados no universo da programação e do desenvolvimento de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** JavaScript, HTML5, CSS3, PHP.
+- **Frameworks & Bibliotecas:**  Node.js, Bootstrap]
+- **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+### 🚀 Sobre mim
+- 🎓 Estudante na **Etec Padre Carlos Leôncio da Silva**
+- 🔭 Atualmente trabalhando em: ** JH-SPEED um site de vendas de motos**
+- 🌱 Estudando no momento: **No momento estou estudando PHP, JavaScript**
+- 🎯 Objetivos: **Continuar estudando programação**
+
+---
+
+### 📬 Vamos nos conectar?
